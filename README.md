@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/adrianodemoraissames882-del"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://dracky.lovable.app"><img src="https://img.shields.io/badge/Dracky-7C3AED?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" alt="Dracky" /></a>
+  <a href="https://dracky.lovable.app"><img src="https://img.shields.io/badge/Dracky-7C3AED?style=for-the-badge" alt="Dracky" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
   <a href="https://kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
 </p>
